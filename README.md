@@ -1,16 +1,20 @@
 ## Hi there 👋
+# About Me  
 
-<!--
-**snehakp1/snehakp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Graduated in M.Tech Data Science & Analytics from CUSAT  
+- Exploring AI, Machine Learning, and Data Science  
+- Interested in research and real-world data-driven solutions  
+- Continuously learning and building projects to apply my skills  
 
-Here are some ideas to get you started:
+# Technical Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Python, R, SQL  
+- Libraries & Tools: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- Data Visualization: Power BI  
+- Others: Excel, MySQL
+
+# Connect with Me  
+
+- LinkedIn: www.linkedin.com/in/snehakp-
+- Email: snehasaheesan@gmail.com
+
