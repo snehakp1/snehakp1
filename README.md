@@ -1,7 +1,7 @@
 ## Hi there 👋
 # About Me  
 
-- Graduated in M.Tech Data Science & Analytics from CUSAT  
+- Graduated in M.Tech Data Science & Analytics from CUSAT (2023-25)
 - Exploring AI, Machine Learning, and Data Science  
 - Interested in research and real-world data-driven solutions  
 - Continuously learning and building projects to apply my skills  
